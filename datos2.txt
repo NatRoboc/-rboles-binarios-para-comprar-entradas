@@ -1,0 +1,21 @@
+12333444-2,Maria Reyes,2
+20165233-4,Rocio Morales,2
+13444555-6,Pedro Diaz,2
+19000111-3,Jose Herrera,1
+12432008-k,Juan Pardo,2
+23748506-5,Manuel Martinez,1
+21854748-0,Armando Casas,1
+17484564-9,Johnny Sabia,2
+19264783-k,Ines Perado,2
+15894369-2,Jaime Gonzalez,2
+31415926-5,Trinidad Quintana,1
+18979323-8,Miguel Henriquez,2
+19454746-6,Claudia Logan,1
+17326734-3,Alonso Bulnes,2
+14784964-k,Fantas Montt,1
+12948945-9,BernardoNeira,2
+24985869-2,Yamila Urrutia,1
+13876037-5,Fernando Gomez,2
+20758493-k,Camila Narea,1
+12349573-5,Aquiles Vera,1
+16934659-4,Ignacio Nunez,1
