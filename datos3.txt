@@ -1,0 +1,29 @@
+12333444-2,Maria Reyes,2
+20165233-4,Rocio Morales,2
+13444555-6,Pedro Diaz,2
+19000111-3,Jose Herrera,2
+15384654-8,EstebanQuito,1
+12432008-k,Juan Pardo,2
+18394538-0,Esther Eotipo,3
+23748506-5,ManuelMartinez,2
+17395526-k,EustaquioBarros,2
+20184756-7,EusebioLillo ,2
+21854748-0,Armando Casas,2
+17484564-9,JohnnySabia,2
+19264783-k,Ines Perado,2
+15894369-2,JaimeGonzalez,2
+31415926-5,TrinidadQuintana,2
+18979323-8,Miguel Henriquez,2
+19454746-6,Claudia Logan,2
+15384654-8,EstebanQuito,2
+20846758-9,AstridMendez,2
+22754894-5,Estela Vial,2
+19374853-3,Jorge Gonzalez,2
+18394538-0,Esther Eotipo,2
+17326734-3,Alonso Bulnes,2
+14784964-k,FantasMontt,2
+12948945-9,BernardoNeira,2
+24985869-2,Yamila Urrutia,2
+13876037-5,Francisco Gotte,2
+19264783-k,Ines Perado,1
+21854748-0,Armando Casas,1
